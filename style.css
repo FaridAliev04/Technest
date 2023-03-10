@@ -368,6 +368,7 @@ select{
     border-radius: 10px;
     border: none;
     z-index: 1;
+    cursor: pointer;
 }
 
 .main4_link{
@@ -387,4 +388,87 @@ select{
     position: absolute;
    right: 0px;
     bottom:-5px ;
+}
+
+.fifth_header{
+    width: 358px;
+    height: 48px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.fifth_header1{
+    color: #151547;
+    font-size: 32px;
+    line-height: 48px;
+}
+
+.fifth_boxes{
+    display: flex;
+}
+
+.boxes1{
+   background: #F6F6F7;
+   margin-top: 40px;
+   width: 180px;
+   padding-left: 48px;
+   padding-right: 48px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-right: 20px;
+   border-radius: 10px;
+   cursor: pointer;
+}
+
+.boxes2{
+    background: #F6F6F7;
+    margin-top: 40px;
+    width: 180px;
+    padding-left: 47px;
+    padding-right: 47px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.boxes3{
+    background: #F6F6F7;
+    margin-top: 40px;
+    width: 180px;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    cursor: pointer; 
+
+}
+
+.boxes4{
+    background: #F6F6F7;
+    margin-top: 40px;
+    width: 180px;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.boxes5{
+    background: #F6F6F7;
+    margin-top: 40px;
+    width: 180px;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    cursor: pointer;
 }
