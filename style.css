@@ -46,7 +46,7 @@ li{
    
     margin-left: 20px;
 }
-select{
+.select-1{
     color: white;
     background-color: #151547;
     border: #151547 0 solid;
@@ -471,4 +471,9 @@ select{
     margin-right: 20px;
     border-radius: 10px;
     cursor: pointer;
+}
+
+.main_sixth-select{
+    width: 700px;
+    margin: 0 auto;
 }
