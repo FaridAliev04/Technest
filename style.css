@@ -451,10 +451,10 @@ li{
     background: #F6F6F7;
     margin-top: 40px;
     width: 180px;
-    padding-left: 48px;
-    padding-right: 48px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-left: 34px;
+    padding-right: 34px;
+    padding-top: 34px;
+    padding-bottom: 34px;
     margin-right: 20px;
     border-radius: 10px;
     cursor: pointer;
@@ -464,16 +464,28 @@ li{
     background: #F6F6F7;
     margin-top: 40px;
     width: 180px;
-    padding-left: 48px;
-    padding-right: 48px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-left: 46px;
+    padding-right: 46px;
+    padding-top: 26px;
+    padding-bottom: 26px;
     margin-right: 20px;
     border-radius: 10px;
     cursor: pointer;
 }
 
-.main_sixth-select{
-    width: 700px;
+.main_sixth{
+    margin-top: 190px;
+}
+
+
+.main_sixth-header{
     margin: 0 auto;
+    width: 112px;
+}
+
+.main_sixth_img{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
 }
