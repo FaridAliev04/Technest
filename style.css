@@ -604,11 +604,156 @@ footer{
   display: grid;
   grid-template-columns: 108px 108px 108px 108px;
   right: 30px;
+  cursor: pointer;
    
 }
 
-.sosial_svg{
+.footer_boxes{
+    display: flex;
+   
+}
+
+.footer_box2{
+    background-color: #232352;
+    width: 580px;
+    height: 750px;
+    margin-left: 81px;
+    margin-top: 51px;
+    padding-top: 60px;
+    padding-left: 65px;
+    padding-right: 40px;
+}
+
+.footer_b2-header{
+    width: 254px;
+    height: 48px;
+    font-size: 32px;
+    color: #FFFFFF;
+    font-weight: 600;
+    line-height: 48px;
+}
+
+.buttons{
+    width: 515px;
+    height: 106px;
+    margin-top: 75px;
+    
+}
+
+.footer_button{
+    background: #232352;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    cursor: pointer;
+   
+}
+
+.buttons1{
+    width: 130px;
+    height: 48px;
+   
+}
+
+.buttons2{
+    width: 162px;
+    height: 48px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.buttons3{
+    width: 164px;
+    height: 48px;
+    margin-left: 5px;
+}
+
+.buttons4{
+    width: 164px;
+    height: 48px;
+    
+}
+
+.buttons5{
+    width: 123px;
+    height: 48px;
+    margin-left: 5px;
+}
+
+.buttons6{
+    width: 117px;
+    height: 48px;
+    margin-left: 5px;
+}
+
+.buttons7{
+    width:78px ;
+    height: 48px;
+    margin-left: 5px;
+}
+
+.footer_first{
+    margin-top: 30px;
+   color: #EEEEEE;
+}
+
+.footer_form1{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.footer_input{
+    background-color: #151547;
+    border-radius: 10px;
+    border: none;
+}
+
+.inputs1{
+    padding-left: 24px;
+    padding-right: 429px;
+    padding-top: 16px;
+    padding-bottom: 15px;
+}
+
+.inputs2{
+    padding-left: 24px;
+    padding-right: 429px;
+    padding-top: 16px;
+    padding-bottom: 15px;
+}
+
+.inputs3{
+    padding-left: 24px;
+    padding-right: 429px;
+    padding-top: 16px;
+    padding-bottom: 15px;
+}
+
+.inputs4{
+    padding-left: 24px;
+    padding-right: 429px;
+    padding-top: 16px;
+    padding-bottom: 103px;
 
 }
 
+.footer_button-end{
+    background-color: #3165F7;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding-left: 40px;
+    padding-right: 39px;
+    padding-top: 16px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-left: 425px;
+
+}
 
